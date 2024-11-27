@@ -1,6 +1,6 @@
 
 
-<img src="https://i.postimg.cc/kMhT3JwB/Banner-web-black-Friday-2022-elegante-negro.png" alt="banner introducing Valentina and his charge at junior web developer">
+<img src="https://i.postimg.cc/pdRqzvsh/Banner-web-black-Friday-2022-elegante-negro.png" alt="banner introducing Valentina and his charge at junior web developer">
 
 # About me !
 
