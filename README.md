@@ -7,7 +7,7 @@
 👩‍💻 | I'm currently open to work and studying to get my Certificate of Higher Education in web development.\
 💡 | I like to explore new technologies and develop software solutions.\
 🎓 | I'm committed to continue my education. In the short term, I plan to pursue a higher technical degree in Multiplatform Application Development, and in the future, I aim to complete a university degree in Computer Science.\
-✍️ | In my free time, I enjoy practicing ballet and exploring my creativity through drawing.
+✍️ | In my free time, I enjoy exploring my creativity through drawing and making sweet treats and desserts.
 
 <div align="center">
 <strong><h2>Techs that I know</h2></strong>
